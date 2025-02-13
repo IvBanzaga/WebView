@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="direc_url">Dirección URL</string>
+    <string name="enviar">Enviar URL</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="btn_ir_al_sitio">Ir al sitio</string>
+    <string name="btn_cerrar">Cerrar</string>
+</resources>

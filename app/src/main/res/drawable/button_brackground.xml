@@ -1,0 +1,9 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/btn_background"/> <!-- Color de fondo -->
+            <corners android:radius="0dp"/> <!-- Esquinas rectas -->
+            <stroke android:width="2dp" android:color="#1B1A1A"/> <!-- Borde -->
+        </shape>
+    </item>
+</selector>
